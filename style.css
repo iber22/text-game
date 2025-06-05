@@ -10,18 +10,11 @@ body {
 .botao {
     background-color: rgb(21, 0, 255);
     text-align: center;
-    width: 120px;         /* Tamanho fixo para todos os botões */
-    height: 40px;         /* Altura fixa para uniformidade */
-    padding: 0;           /* Sem padding adicional para manter o tamanho exato */
-    font-size: 14px;      /* Fonte uniforme */
-    font-family: Arial, sans-serif; /* Fonte consistente */
+    width: 10%;            /* Diminuído de 15% */
+    margin: 30px auto;
+    padding: 10px 15px;    /* Reduzido de 20px */
+    font-size: 14px;       /* Adicionado tamanho de fonte menor */
     border-radius: 18px;
-    display: inline-block;
-    line-height: 40px;    /* Alinha o texto verticalmente */
-    color: white;
-    border: none;
-    cursor: pointer;
-
 
 }
 
