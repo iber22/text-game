@@ -9,11 +9,13 @@ body {
 
 .botao {
     background-color: rgb(21, 0, 255);
-    width: 10%;  
+    text-align: center;
+    width: 15%;
     margin: 30px auto;
-    padding: 15px;    
-    font-size: 14px;       
+    padding: 20px;
     border-radius: 18px;
+    margin: 30px auto;
+    display: inline-block;
 
 }
 
