@@ -10,11 +10,11 @@ body {
 .botao {
     background-color: rgb(21, 0, 255);
     text-align: center;
-    width: 15%;
+    width: 10%;            /* Diminuído de 15% */
     margin: 30px auto;
-    padding: 20px;
+    padding: 10px 15px;    /* Reduzido de 20px */
+    font-size: 14px;       /* Adicionado tamanho de fonte menor */
     border-radius: 18px;
-    margin: 30px auto;
     display: inline-block;
 
 }
